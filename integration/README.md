@@ -1,6 +1,6 @@
 Please see https://github.com/mhockelberg/integration-demo-env
 
-Option to Install
+## Option to Install
 
 Red Hat 3scale API Management
 
