@@ -2,7 +2,7 @@
 
 [Red Hat Integration](https://github.com/redhat-naps-da/installation-templates/blob/main/integration/README.md)
 
-[Application Services Example](https://github.com/redhat-naps-da/installation-templates/blob/main/app-svcs-install-example/README.md)
+[Application Services Example - Deploying a FHIR Server](https://github.com/redhat-naps-da/installation-templates/blob/main/app-svcs-install-example/README.md)
 
 
 # TODO
